@@ -23,20 +23,7 @@ a=([1,3],[2,5])
 b=([5,-3])
 sol=np.linalg.inv(a).dot(b)
 print(sol)
-#Program to find the solution for the given linear equations.
-#Developed by:anbuselvam A 
-#RegisterNumber:22009081
-
-import numpy as np
-a=([1,3],[2,5])
-b=([5,-3])
-sol=np.linalg.inv(a).dot(b)
-print(sol)
-```
-
-## Output:
-
-![output](./Screenshot%20(10).png)
+Screenshot%20(10).png)
 
 
 ## Result: 
