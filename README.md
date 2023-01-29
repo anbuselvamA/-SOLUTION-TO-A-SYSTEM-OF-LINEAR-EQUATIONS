@@ -14,7 +14,8 @@ Using the np.linalg.solve(), we can find the solutions.
 ### Step 4: 
 End the program
 ## Program:
-```#Program to find the solution for the given linear equations.
+```
+Program to find the solution for the given linear equations.
 #Developed by:anbuselvam A 
 #RegisterNumber:22009081
 
@@ -23,7 +24,11 @@ a=([1,3],[2,5])
 b=([5,-3])
 sol=np.linalg.inv(a).dot(b)
 print(sol)
+```
+##Output:
 Screenshot%20(10).png)
+
+
 
 
 ## Result: 
