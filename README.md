@@ -26,7 +26,8 @@ sol=np.linalg.inv(a).dot(b)
 print(sol)
 ```
 ##Output:
-Screenshot%20(10).png)
+![Screenshot (85)](https://user-images.githubusercontent.com/119559871/215304888-92d87ed7-db7e-4c34-8213-b00a3999db08.png)
+
 
 
 
